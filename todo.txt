@@ -1,2 +1,4 @@
 1. Install Git
 3. Make a commit
+4. Practice using Git branches
+5. Learn how to create pull requests
